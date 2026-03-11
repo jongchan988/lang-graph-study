@@ -1,1 +1,1 @@
-https://wikidocs.net/261590
+https://wikidocs.net/book/16723
