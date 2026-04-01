@@ -74,8 +74,7 @@ from langgraph.graph import END
 
 graph.add_edge("last_node", END)
 
-from langgraph.cache import InMemoryCache
-from langgraph.cache.policy import CachePolicy
+from langgraph.cache import InMemoryCache, CachePolicy
 
 # 캐시 정책 정의
 policy = CachePolicy(
